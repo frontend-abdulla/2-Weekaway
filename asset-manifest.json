@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2-Weekaway/static/css/main.8bf0b38d.css",
+    "main.js": "/2-Weekaway/static/js/main.abb989d7.js",
+    "static/media/resort.jpg": "/2-Weekaway/static/media/resort.8e7bc79bd7ed0032ffca.jpg",
+    "static/media/gallery4.jpg": "/2-Weekaway/static/media/gallery4.45d8e7b319a1c2340f9d.jpg",
+    "static/media/contactimg.jpg": "/2-Weekaway/static/media/contactimg.c495a2026d613e4a89eb.jpg",
+    "static/media/resort2.jpg": "/2-Weekaway/static/media/resort2.c495a2026d613e4a89eb.jpg",
+    "static/media/resort3.jpg": "/2-Weekaway/static/media/resort3.a9396da17aa900724209.jpg",
+    "static/media/gallery2.jpg": "/2-Weekaway/static/media/gallery2.507ee46596a408406f3b.jpg",
+    "static/media/heroimg2.jpg": "/2-Weekaway/static/media/heroimg2.fbe62661a69fa15c3551.jpg",
+    "static/media/gallery5.jpg": "/2-Weekaway/static/media/gallery5.425ec205bbcbb5bc6d89.jpg",
+    "static/media/gallery3.jpg": "/2-Weekaway/static/media/gallery3.e5410591071e3b0eac0a.jpg",
+    "static/media/gallery1.jpg": "/2-Weekaway/static/media/gallery1.f0c95705e84a37b12a50.jpg",
+    "index.html": "/2-Weekaway/index.html",
+    "main.8bf0b38d.css.map": "/2-Weekaway/static/css/main.8bf0b38d.css.map",
+    "main.abb989d7.js.map": "/2-Weekaway/static/js/main.abb989d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bf0b38d.css",
+    "static/js/main.abb989d7.js"
+  ]
+}
